@@ -103,8 +103,3 @@ window.onload = () => {
   }
   generateThought(); // show a new thought when the page loads
 };
-
-function changePage() {
-  // Navigate to the local page 'page2.html'
-  window.location.href = 'thoughts.html';
-}
